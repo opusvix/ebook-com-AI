@@ -59,8 +59,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/mauriciodasilvabarros/">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/opusvix/">
-    Instagram</a>
+    <a href="https://x.com/opusvix">
+    X</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
