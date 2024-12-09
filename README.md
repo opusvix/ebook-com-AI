@@ -8,7 +8,7 @@ Nesse projeto de nível intermediário, vamos construir um eBook profissional do
 
 Nas aulas do curso o assunto do ebook foi sobre CSS com temática de Star Wars. Aqui trocamos o assunto principal para Análise de Dados com Power Query e a linguagem M, mantendo a temática.
 
-## Tecnologias utilizadas nesse projeto:
+## :abacus: Tecnologias utilizadas nesse projeto:
 
 - [ChatGPT](https://chat.openai.com/)
 - [Stable Diffusion](https://stablediffusionweb.com/) No curso o instrutor utilizou o MidJourney, mas infelizmente nesse instante, essa ferramenta não possui mais o acesso free, então optamos pelo Stable Diffusion.
