@@ -68,4 +68,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Maurício Barros](https://github.com/opusvix)
+⌨️	:hammer_and_wrench: com :sparkling_heart: por [Maurício Barros](https://github.com/opusvix)
