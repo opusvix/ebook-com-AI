@@ -14,7 +14,7 @@ Nas aulas do curso o assunto do ebook foi sobre CSS com temática de Star Wars. 
 - [Stable Diffusion](https://stablediffusionweb.com/) No curso o instrutor utilizou o MidJourney, mas infelizmente nesse instante, essa ferramenta não possui mais o acesso free, então optamos pelo Stable Diffusion.
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## Prompts:
+## :atom: Prompts:
 
 ChatGPT：
 
