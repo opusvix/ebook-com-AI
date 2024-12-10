@@ -4,14 +4,14 @@
 
 ### Desafio de Projeto "Criando um Ebook com ChatGPT e Midjourney".
 
-Nesse projeto de nível intermediário, vamos construir um eBook profissional do zero, desde a criação de um título poderoso até a diagramação do conteúdo, de forma que tenha identidade única, um posicionamento coerente e um layout padronizado e agradável de ler em praticamente qualquer tela.
+Nesse projeto de nível intermediário, construí um eBook profissional do zero, desde a criação de um título poderoso até a diagramação do conteúdo, de forma que tenha identidade única, um posicionamento coerente e um layout padronizado e agradável de ler em praticamente qualquer tela.
 
-Nas aulas do curso o assunto do ebook foi sobre CSS com temática de Star Wars. Aqui trocamos o assunto principal para Análise de Dados com Power Query e a linguagem M, mantendo a temática.
+Nas aulas do curso o assunto do ebook foi sobre CSS com temática de Star Wars. Aqui troquei o assunto principal para Análise de Dados com Power Query e a linguagem M, mantendo a temática.
 
 ## :abacus: Tecnologias utilizadas nesse projeto:
 
 - [ChatGPT](https://chat.openai.com/)
-- [Stable Diffusion](https://stablediffusionweb.com/) No curso o instrutor utilizou o MidJourney, mas infelizmente nesse instante, essa ferramenta não possui mais o acesso free, então optamos pelo Stable Diffusion.
+- [Stable Diffusion](https://stablediffusionweb.com/) No curso o instrutor utilizou o MidJourney, mas infelizmente nesse instante, essa ferramenta não possui mais o acesso free, então optei pelo Stable Diffusion.
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## :atom: Prompts:
@@ -20,7 +20,7 @@ ChatGPT：
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema Análise de Dados, o ebook é do nicho de Power Query e o subnicho é de Linguagem M. o título deve ser épico e curto e tenha uma temática de Star Wars no título, me liste 5 variações de títulos.                                                        |
+|  título  | Create an image of a Jedi in a meditation pose, with his blue lightsaber floating, with a more homogeneous background, including the Power Query logo (Opções retornadas: https://imgcdn.stablediffusionweb.com/2024/12/9/a9ca3120-e869-47fd-89e3-64d881576744.jpg e https://imgcdn.stablediffusionweb.com/2024/12/9/3ab3a287-3d6e-4f91-b0ea-c7abe8a50056.jpg)                                                        
 | conteúdo | Faça um texto para ebook , com foco em Preparação de Dados utilizando o Power Query, destacando o poder da linguagem M, listando as principais etapas com exemplos. Explique sempre de uma maneira simples. Deixe o texto enxuto, sempre traga exemplos de situações em contextos reais , sempre deixe um título sugestivo por tópico. |
 
 
@@ -28,7 +28,7 @@ Stable Diffusion：
 
 |  Ação  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| imagem | Create an image of a Jedi in a meditation pose, with his blue lightsaber floating, with a more homogeneous background |
+| imagem | Create an image of a Jedi in a meditation pose, with his blue lightsaber floating, with a more homogeneous background, including the Power Query logo |
 
 ## ✨ Features
 
@@ -42,7 +42,7 @@ Stable Diffusion：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Power Point, Libre Office , InDesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Power Point, Libre Office, InDesign para diagramação.
 
 ## 👨‍💻 Professional
 
