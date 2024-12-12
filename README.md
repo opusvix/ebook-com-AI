@@ -4,7 +4,7 @@
 
 ### Desafio de Projeto "Criando um Ebook com ChatGPT e Midjourney".
 
-Nesse projeto de nível intermediário, construí um eBook profissional do zero, desde a criação de um título poderoso até a diagramação do conteúdo, de forma que tenha identidade única, um posicionamento coerente e um layout padronizado e agradável de ler em praticamente qualquer tela.
+Nesse projeto de nível intermediário, construí um eBook profissional do zero, desde a criação de um título poderoso até a diagramação do conteúdo, de forma que tivesse identidade única, um posicionamento coerente e um layout padronizado e agradável de ler em praticamente qualquer tela.
 
 Nas aulas do curso o assunto do ebook foi sobre CSS com temática de Star Wars. Aqui troquei o assunto principal para Análise de Dados com Power Query e a linguagem M, mantendo a temática.
 
