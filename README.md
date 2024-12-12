@@ -42,7 +42,7 @@ Stable Diffusion：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Power Point, Libre Office, InDesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Power Point, Libre Office ou InDesign para diagramação.
 
 ## 👨‍💻 Autor
 
