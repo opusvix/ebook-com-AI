@@ -44,7 +44,7 @@ Stable Diffusion：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Power Point, Libre Office, InDesign para diagramação.
 
-## 👨‍💻 Professional
+## 👨‍💻 Autor
 
 <p>
     <img 
