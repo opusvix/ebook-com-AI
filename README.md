@@ -38,7 +38,7 @@ Stable Diffusion：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- [ebook gerado durante as aulas](https://github.com/opusvix/ebook-with-AI/blob/main/output/Prepara%C3%A7%C3%A3o%20de%20Dados%20com%20Power%20Query.pdf)
 
 ## 🛠️ Instruções de execução
 
